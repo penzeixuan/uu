@@ -247,14 +247,6 @@ local About = Window:MakeTab({
   PremiumOnly = false
 })
 
-Tab:AddButton({
-	Name = "",
-	Callback = function()
-脚本
-end
-})
-
-
 
 OrionLib:Init()
     else
